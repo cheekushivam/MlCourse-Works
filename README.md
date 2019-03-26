@@ -1,2 +1,3 @@
-# mlcourse.ai-assignments
-mlcourse.ai notes
+# MLcourse Works
+
+1: Linear Regression Using Scikit Learn 
